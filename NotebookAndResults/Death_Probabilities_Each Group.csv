@@ -1,0 +1,99 @@
+Sex,Age Group,Ethnicity,Probability of Death
+Male,80+ Years,Hispanic/Latino,0.55
+Male,80+ Years,"Asian, Non-Hispanic",0.508
+Male,80+ Years,"Black, Non-Hispanic",0.477
+Male,80+ Years,"American Indian/Alaska Native, Non-Hispanic",0.447
+Female,80+ Years,Hispanic/Latino,0.425
+Male,80+ Years,"White, Non-Hispanic",0.418
+Female,80+ Years,"Asian, Non-Hispanic",0.414
+Male,80+ Years,"Native Hawaiian/Other Pacific Islander, Non-Hispanic",0.387
+Female,80+ Years,"Black, Non-Hispanic",0.381
+Male,80+ Years,"Multiple/Other, Non-Hispanic",0.347
+Female,80+ Years,"American Indian/Alaska Native, Non-Hispanic",0.344
+Female,80+ Years,"White, Non-Hispanic",0.338
+Male,70 - 79 Years,Hispanic/Latino,0.308
+Male,70 - 79 Years,"Black, Non-Hispanic",0.29
+Female,80+ Years,"Multiple/Other, Non-Hispanic",0.283
+Male,70 - 79 Years,"American Indian/Alaska Native, Non-Hispanic",0.256
+Male,70 - 79 Years,"Asian, Non-Hispanic",0.255
+Female,80+ Years,"Native Hawaiian/Other Pacific Islander, Non-Hispanic",0.217
+Male,70 - 79 Years,"Native Hawaiian/Other Pacific Islander, Non-Hispanic",0.2
+Female,70 - 79 Years,"Black, Non-Hispanic",0.199
+Female,70 - 79 Years,Hispanic/Latino,0.191
+Male,70 - 79 Years,"White, Non-Hispanic",0.178
+Female,70 - 79 Years,"American Indian/Alaska Native, Non-Hispanic",0.177
+Female,70 - 79 Years,"Asian, Non-Hispanic",0.155
+Male,70 - 79 Years,"Multiple/Other, Non-Hispanic",0.15
+Male,60 - 69 Years,Hispanic/Latino,0.144
+Male,60 - 69 Years,"Black, Non-Hispanic",0.14
+Male,60 - 69 Years,"American Indian/Alaska Native, Non-Hispanic",0.137
+Female,70 - 79 Years,"White, Non-Hispanic",0.12
+Male,60 - 69 Years,"Native Hawaiian/Other Pacific Islander, Non-Hispanic",0.111
+Female,70 - 79 Years,"Native Hawaiian/Other Pacific Islander, Non-Hispanic",0.106
+Male,60 - 69 Years,"Asian, Non-Hispanic",0.101
+Female,60 - 69 Years,"American Indian/Alaska Native, Non-Hispanic",0.098
+Female,70 - 79 Years,"Multiple/Other, Non-Hispanic",0.093
+Female,60 - 69 Years,"Black, Non-Hispanic",0.086
+Female,60 - 69 Years,Hispanic/Latino,0.068
+Male,50 - 59 Years,"American Indian/Alaska Native, Non-Hispanic",0.066
+Female,60 - 69 Years,"Native Hawaiian/Other Pacific Islander, Non-Hispanic",0.066
+Male,60 - 69 Years,"White, Non-Hispanic",0.063
+Male,60 - 69 Years,"Multiple/Other, Non-Hispanic",0.059
+Male,50 - 59 Years,"Black, Non-Hispanic",0.055
+Male,50 - 59 Years,Hispanic/Latino,0.055
+Female,60 - 69 Years,"Asian, Non-Hispanic",0.043
+Male,50 - 59 Years,"Native Hawaiian/Other Pacific Islander, Non-Hispanic",0.041
+Female,60 - 69 Years,"White, Non-Hispanic",0.038
+Male,50 - 59 Years,"Asian, Non-Hispanic",0.033
+Female,50 - 59 Years,"American Indian/Alaska Native, Non-Hispanic",0.031
+Female,60 - 69 Years,"Multiple/Other, Non-Hispanic",0.029
+Male,40 - 49 Years,"American Indian/Alaska Native, Non-Hispanic",0.029
+Female,50 - 59 Years,"Black, Non-Hispanic",0.028
+Female,50 - 59 Years,"Native Hawaiian/Other Pacific Islander, Non-Hispanic",0.024
+Male,40 - 49 Years,"Black, Non-Hispanic",0.022
+Male,50 - 59 Years,"White, Non-Hispanic",0.019
+Female,50 - 59 Years,Hispanic/Latino,0.019
+Male,50 - 59 Years,"Multiple/Other, Non-Hispanic",0.019
+Male,40 - 49 Years,Hispanic/Latino,0.019
+Female,40 - 49 Years,"American Indian/Alaska Native, Non-Hispanic",0.017
+Male,40 - 49 Years,"Native Hawaiian/Other Pacific Islander, Non-Hispanic",0.016
+Female,50 - 59 Years,"Asian, Non-Hispanic",0.012
+Male,30 - 39 Years,"American Indian/Alaska Native, Non-Hispanic",0.012
+Male,40 - 49 Years,"Asian, Non-Hispanic",0.011
+Female,40 - 49 Years,"Black, Non-Hispanic",0.011
+Female,50 - 59 Years,"White, Non-Hispanic",0.01
+Male,30 - 39 Years,"Black, Non-Hispanic",0.009
+Female,30 - 39 Years,"American Indian/Alaska Native, Non-Hispanic",0.008
+Female,50 - 59 Years,"Multiple/Other, Non-Hispanic",0.007
+Male,30 - 39 Years,Hispanic/Latino,0.007
+Male,40 - 49 Years,"Multiple/Other, Non-Hispanic",0.007
+Female,40 - 49 Years,Hispanic/Latino,0.006
+Male,30 - 39 Years,"Native Hawaiian/Other Pacific Islander, Non-Hispanic",0.006
+Male,40 - 49 Years,"White, Non-Hispanic",0.006
+Female,40 - 49 Years,"Asian, Non-Hispanic",0.005
+Female,40 - 49 Years,"Native Hawaiian/Other Pacific Islander, Non-Hispanic",0.005
+Female,30 - 39 Years,"Native Hawaiian/Other Pacific Islander, Non-Hispanic",0.004
+Female,30 - 39 Years,"Black, Non-Hispanic",0.004
+Male,20 - 29 Years,"Black, Non-Hispanic",0.004
+Male,20 - 29 Years,"American Indian/Alaska Native, Non-Hispanic",0.004
+Male,30 - 39 Years,"Asian, Non-Hispanic",0.004
+Female,40 - 49 Years,"White, Non-Hispanic",0.003
+Female,20 - 29 Years,"American Indian/Alaska Native, Non-Hispanic",0.003
+Male,30 - 39 Years,"Multiple/Other, Non-Hispanic",0.002
+Female,40 - 49 Years,"Multiple/Other, Non-Hispanic",0.002
+Female,30 - 39 Years,"Asian, Non-Hispanic",0.002
+Female,30 - 39 Years,Hispanic/Latino,0.002
+Female,20 - 29 Years,"Black, Non-Hispanic",0.002
+Male,20 - 29 Years,"Native Hawaiian/Other Pacific Islander, Non-Hispanic",0.002
+Male,30 - 39 Years,"White, Non-Hispanic",0.002
+Male,20 - 29 Years,Hispanic/Latino,0.002
+Male,20 - 29 Years,"White, Non-Hispanic",0.001
+Female,30 - 39 Years,"Multiple/Other, Non-Hispanic",0.001
+Female,30 - 39 Years,"White, Non-Hispanic",0.001
+Female,20 - 29 Years,"Native Hawaiian/Other Pacific Islander, Non-Hispanic",0.001
+Female,20 - 29 Years,Hispanic/Latino,0.001
+Male,20 - 29 Years,"Multiple/Other, Non-Hispanic",0.001
+Male,20 - 29 Years,"Asian, Non-Hispanic",0.001
+Female,20 - 29 Years,"Multiple/Other, Non-Hispanic",0.0
+Female,20 - 29 Years,"Asian, Non-Hispanic",0.0
+Female,20 - 29 Years,"White, Non-Hispanic",0.0
